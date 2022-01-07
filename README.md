@@ -48,3 +48,8 @@ Steps of the pipeline:
 ##### 4.  In parallel Write the tweets in BigQuery and
 ##### 5.  Calculate the mean sentiment every 10s and store it in another BigQuery table.
 
+## Results
+
+Following is the graph of average sentiment over time.
+
+![Result](/Images/result.png)
